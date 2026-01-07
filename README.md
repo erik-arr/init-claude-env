@@ -6,11 +6,11 @@ Meta-agent orchestration infrastructure for Claude Code with auto-session tracki
 
 ```bash
 # Install
-curl -fsSL https://raw.githubusercontent.com/YOUR_USER/claude-meta-agent/main/install-claude-arch.sh | bash -s -- clean
+curl -fsSL https://raw.githubusercontent.com/erik-arr/init-claude-env/main/install-claude-arch.sh | bash -s -- clean
 
 # Or clone and run
-git clone https://github.com/YOUR_USER/claude-meta-agent.git
-cd claude-meta-agent
+git clone https://github.com/erik-arr/init-claude-env.git
+cd init-claude-env
 ./install-claude-arch.sh clean
 ```
 
