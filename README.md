@@ -2,6 +2,20 @@
 
 Meta-agent orchestration infrastructure for Claude Code with auto-session tracking and JSONL logging.
 
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [What It Installs](#what-it-installs)
+- [Commands](#commands)
+- [Project Initialization](#project-initialization)
+- [Agent Logging (Python)](#agent-logging-python)
+  - [Session Continuity](#session-continuity)
+- [Log Queries](#log-queries)
+- [Agent Taxonomy](#agent-taxonomy)
+- [Thinking Triggers](#thinking-triggers)
+- [Version](#version)
+- [License](#license)
+
 ## Quick Start
 
 ```bash
